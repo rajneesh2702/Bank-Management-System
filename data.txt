@@ -1,0 +1,11 @@
+
+ede	dd	32e	MALE	ed	18815	1000
+karan	k@gmail.com	9876543210	MALE	aaaaa	99305	1000
+samvit	s@gmail.com	989898987	MALE	rrrrr	54326	1000
+mangesh	m@gmail.cpm	999889899	MALE	rrrrr	82411	1000
+www	ss	34467	FEMALE	wsesed	18264	1000
+rr	d	d	MALE	dd	66902	1000
+rr	hh	848	MALE	jj	34532	1000
+RAJNEESH	KUMARRA	810805956	MALE	RAJJ	88983	1000
+Sneha	ravinders277@gmail.com	8018259056	FEMALE	poonamdevi	3908	1000
+tt	fgfg	24254	MALE	hyty	71763	1000
